@@ -11,3 +11,5 @@ Note: Rake tasks are run in the following form taking the
 `db=development|test|production` for running in the selected environment.
 
 `bundle exec rake db:migrate db=development`
+
+http://blastar.in/
